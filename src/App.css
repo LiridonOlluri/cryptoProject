@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+h1{
+     width: 100%;
+    text-align: center;
+}
+.center_container{
+    width:700px;
+    margin-left: 38em;
+
+}
+.task1{
+  border: 8px solid;
+  text-align: center;
+}
